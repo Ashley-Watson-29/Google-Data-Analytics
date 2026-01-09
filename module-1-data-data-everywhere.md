@@ -15,3 +15,18 @@ This module introduces the fundamentals of data analytics, its importance in bus
 3. Types of data (structured, unstructured, semi-structured)
 4. Data life cycle and data analysis process
 5. Careers in data analytics
+
+---
+
+## Data Analysis Process 
+Ask: Upload a Markdown file with 2–3 SMART questions you wrote.
+
+Prepare: Document a sample dataset (or link to a public one) and describe how you checked for integrity.
+
+Process: Show SQL queries or spreadsheet formulas you used for cleaning.
+
+Analyse: Include pivot tables or SQL queries in Markdown.
+
+Share: Add screenshots of visualisations or embed Tableau links.
+
+Act: Summarise insights and recommendations in a clear format.
